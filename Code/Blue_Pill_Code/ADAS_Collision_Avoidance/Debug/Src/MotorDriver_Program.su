@@ -1,0 +1,17 @@
+../Src/MotorDriver_Program.c:62:6:Motors_Init	8	static
+../Src/MotorDriver_Program.c:80:6:MOTORS_Forward	16	static
+../Src/MotorDriver_Program.c:88:6:MOTORS_Backward	16	static
+../Src/MotorDriver_Program.c:95:6:Motors_Speed	16	static
+../Src/MotorDriver_Program.c:101:6:MOTORS_Forward_Left	16	static
+../Src/MotorDriver_Program.c:108:6:MOTORS_Forward_Right	16	static
+../Src/MotorDriver_Program.c:116:6:MOTORS_Backward_Right	16	static
+../Src/MotorDriver_Program.c:123:6:MOTORS_Backward_Left	16	static
+../Src/MotorDriver_Program.c:130:6:MOTORS_Stop	8	static
+../Src/MotorDriver_Program.c:137:6:Motor1_Forward	8	static
+../Src/MotorDriver_Program.c:143:6:Motor2_Forward	8	static
+../Src/MotorDriver_Program.c:149:6:Motor1_Back	8	static
+../Src/MotorDriver_Program.c:155:6:Motor2_Back	8	static
+../Src/MotorDriver_Program.c:161:6:Motor1_Stop	8	static
+../Src/MotorDriver_Program.c:167:6:Motor2_Stop	8	static
+../Src/MotorDriver_Program.c:173:6:Motor1_Speed	16	static
+../Src/MotorDriver_Program.c:178:6:Motor2_Speed	16	static

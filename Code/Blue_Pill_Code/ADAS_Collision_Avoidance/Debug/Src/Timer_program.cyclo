@@ -1,0 +1,7 @@
+../Src/Timer_program.c:27:9:TIMER1_u8Init	1
+../Src/Timer_program.c:42:9:TIMER1_u8SetBusyWait	2
+../Src/Timer_program.c:60:9:TIMER1_u8SetIntervalPeriodic	2
+../Src/Timer_program.c:83:9:TIMER1_u8InitPwmChannel	5
+../Src/Timer_program.c:136:9:TIMER1_u8SetPWM	7
+../Src/Timer_program.c:202:9:TIMER1_u8Stop	1
+../Src/Timer_program.c:220:6:TIM1_UP_IRQHandler	2

@@ -1,0 +1,7 @@
+../Src/Timer_program.c:27:9:TIMER1_u8Init	24	static
+../Src/Timer_program.c:42:9:TIMER1_u8SetBusyWait	24	static
+../Src/Timer_program.c:60:9:TIMER1_u8SetIntervalPeriodic	24	static
+../Src/Timer_program.c:83:9:TIMER1_u8InitPwmChannel	24	static
+../Src/Timer_program.c:136:9:TIMER1_u8SetPWM	24	static
+../Src/Timer_program.c:202:9:TIMER1_u8Stop	16	static
+../Src/Timer_program.c:220:6:TIM1_UP_IRQHandler	8	static

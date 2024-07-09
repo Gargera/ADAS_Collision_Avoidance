@@ -1,0 +1,2 @@
+../Src/Servo_Core.c:16:6:servo_init	1
+../Src/Servo_Core.c:24:6:Servo_Motor_GENERATE	1

@@ -1,0 +1,8 @@
+../Src/GPIO_PROG.c:35:9:GPIO_u8PinInit	10
+../Src/GPIO_PROG.c:110:9:GPIO_u8SetPinValue	5
+../Src/GPIO_PROG.c:146:9:GPIO_u8TogglePinValue	3
+../Src/GPIO_PROG.c:174:9:GPIO_u8ReadPinValue	3
+../Src/GPIO_PROG.c:201:9:GPIO_Write4Bits	4
+../Src/GPIO_PROG.c:230:9:GPIO_Write8Bits	4
+../Src/GPIO_PROG.c:257:9:GPIO_Write16Bits	3
+../Src/GPIO_PROG.c:290:9:GPIO_WritePort	2

@@ -1,0 +1,5 @@
+../Src/Buzzer_Program.c:26:6:Buzzer_vInit	8	static
+../Src/Buzzer_Program.c:37:6:Buzzer_vTurnOn	16	static
+../Src/Buzzer_Program.c:48:6:Buzzer_vTurnOff	16	static
+../Src/Buzzer_Program.c:59:6:Buzzer_vToggle	16	static
+../Src/Buzzer_Program.c:70:9:Buzzer_ReadStatues	24	static
